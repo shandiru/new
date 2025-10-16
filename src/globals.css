@@ -1,0 +1,48 @@
+:root {
+  /* Brand Colors (From Lough Skin Love Spa) */
+  --color-primary: #00B6C9; /* Turquoise Blue (Logo Text) */
+  --color-secondary: #DCC0AA; /* Nude / Beige Background */
+  --color-ring: rgba(0, 182, 201, 0.5); /* Focus ring (50% opacity of primary) */
+}
+
+.text-primary {
+  color: var(--color-primary) !important;
+}
+
+.text-primary-hover:hover {
+  color: var(--color-primary) !important;
+}
+
+.bg-primary {
+  background-color: var(--color-primary) !important;
+}
+
+.bg-secondary {
+  background-color: var(--color-secondary) !important;
+}
+
+.bg-primary-hover:hover {
+  background-color: var(--color-primary) !important;
+}
+
+.bg-secondary-hover:hover {
+  background-color: var(--color-secondary) !important;
+}
+
+.border-primary {
+  border: 2px solid var(--color-primary) !important;
+}
+
+.border-primary-hover:hover {
+  border: 2px solid var(--color-primary) !important;
+}
+
+.fill-primary {
+  fill: var(--color-primary) !important;
+}
+
+.focus-ring:focus {
+  outline: none; /* Remove default focus outline */
+  box-shadow: 0 0 0 4px var(--color-ring);
+  border-radius: 0.375rem; /* Optional - Tailwind rounded-md style */
+}
