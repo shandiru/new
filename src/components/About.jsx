@@ -25,10 +25,7 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-lg text-[#555] mb-6 leading-relaxed">
-              Welcome to All Aesthetics, where professional medical expertise
-              meets personalized care. As a qualified nurse practitioner with
-              over 5 years of experience in aesthetic medicine, I am dedicated
-              to helping you achieve natural, beautiful results.
+              Lough Skin was born from a passion for holistic wellness and the belief that true beauty comes from nurturing both the skin and the spirit. Founded in the heart of Loughborough, our spa represents a sanctuary where ancient wisdom meets modern skincare science.
             </p>
 
             <p className="text-[#666] mb-8 leading-relaxed">
