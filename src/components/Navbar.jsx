@@ -34,11 +34,11 @@ export default function Header() {
         <div className="hidden xl:flex items-center space-x-6 text-sm text-[#6C6C6C]">
           <div className="flex items-center space-x-1">
             <Phone className="h-4 w-4 text-[#6C6C6C]" />
-            <span>07805 369743</span>
+            <span>+44 7788 988337</span>
           </div>
           <div className="flex items-center space-x-1">
             <Mail className="h-4 w-4 text-[#6C6C6C]" />
-            <span>allaesthetics1@outlook.com</span>
+            <span>loughskin@outlook.com</span>
           </div>
 
           <button className="bg-primary text-white rounded-md px-5 py-2 text-sm font-medium shadow-[0_2px_4px_rgba(0,0,0,0.05)] border border-[#E8E2DD] bg-secondary-hover transition-all duration-200">
